@@ -1,0 +1,8 @@
+admin
+administrator
+root
+valentin
+valentin.mauret
+valentin_mauret
+{FLAG_Sneaky_flag_ici}
+toor
